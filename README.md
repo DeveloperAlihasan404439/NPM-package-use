@@ -28,3 +28,5 @@
 ### (banner_haikei)[https://app.haikei.app/]
 > ## 11. Alert React
 ### (sweetalert2)[https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html]
+> ## 12. lottie files & lottie-react
+### (lottiefiles)[https://lottiefiles.com/] (lottie-react)[https://www.npmjs.com/package/lottie-react]
