@@ -26,7 +26,7 @@
 ## (scroll-triggered-animations)[https://www.framer.com/motion/examples/#scroll-triggered-animations]
 > ## 10.  Banner Haikei
 ### (banner_haikei)[https://app.haikei.app/]
-> ## 11. Alert React
-### (sweetalert2)[https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html]
+> ## 11. Sweet Alert & Hot_Toast & React_Toastify
+### (sweetalert2)[https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html] (Hot_Toast)[https://react-hot-toast.com/] (react-toastify)[https://www.npmjs.com/package/react-toastify]
 > ## 12. lottie files & lottie-react
 ### (lottiefiles)[https://lottiefiles.com/] (lottie-react)[https://www.npmjs.com/package/lottie-react]
