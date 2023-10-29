@@ -27,7 +27,7 @@
 > ## 10.  Banner Haikei
 ### (banner_haikei)[https://app.haikei.app/]
 > ## 11. Sweet Alert & Hot_Toast & React_Toastify
-### 1. (sweetalert2)[https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html]
+1. (sweetalert2)[https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html]
 2. (Hot_Toast)[https://react-hot-toast.com/]
 3. (react-toastify)[https://www.npmjs.com/package/react-toastify]
 > ## 12. lottie files & lottie-react
